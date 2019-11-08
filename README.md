@@ -1,0 +1,2 @@
+# using-
+Assetsフォルダ内のnamespaceで区切られたクラスをすべて取得します
