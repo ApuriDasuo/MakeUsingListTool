@@ -1,2 +1,2 @@
-# using-
+# usingクラス取得ツール
 Assetsフォルダ内のnamespaceで区切られたクラスをすべて取得します
